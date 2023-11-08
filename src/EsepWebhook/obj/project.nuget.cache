@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "imY+ZykEW6Ft8CECfvIUT4FudgOpV8eoGacz5GwvHAL/WIIKnUpc8kCOf7ZN8rrqK6k6chy/Hb7Nzk+inIHo0A==",
+  "success": true,
+  "projectFilePath": "/Users/marandabui/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/marandabui/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/marandabui/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/marandabui/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.13/microsoft.netcore.app.runtime.linux-x64.6.0.13.nupkg.sha512",
+    "/Users/marandabui/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.13/microsoft.aspnetcore.app.runtime.linux-x64.6.0.13.nupkg.sha512",
+    "/Users/marandabui/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.13/microsoft.netcore.app.crossgen2.osx-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
